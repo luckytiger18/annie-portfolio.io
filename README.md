@@ -1,4 +1,4 @@
-# hashirshoaeb.github.io/home
+# luckytiger18.github.io/annie-portfolio.io/
 
 It is a personal static website/portfolio hosted with GitHub Pages, build to showcase my recent projects. Site URL / Demo: [https://luckytiger18.github.io/annie-portfolio.io/](https://luckytiger18.github.io/annie-portfolio.io/).
 
