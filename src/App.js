@@ -354,9 +354,9 @@ class Footer extends Component {
         <a
           className=" badge badge-dark"
           target="_blank"
-          href={"https://github.com/hashirshoaeb"}
+          href={"https://github.com/luckytiger18"}
         >
-          Hashir Shoaib
+          Annie Luc
         </a>{" "}
         using <i className="fab fa-react"></i>
         <p>

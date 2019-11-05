@@ -1,40 +1,34 @@
 {
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
-  "devIntro": "Hashir Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "devIntro": "Annie Luc",
+  "devDesc": "| Engineer | Programmer | Web Developer | Artist ",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/luckytiger18",
       "style": "socialicons"
     },
     {
       "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
+      "image": "fas fa-envelope-square",
+      "url": "mailto:annie.luc86@gmail.com",
       "style": "socialicons"
     },
     {
       "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashir.shoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashir-shoaeb/",
+      "url": "https://www.linkedin.com/in/annie-luc-bb025651/",
       "style": "socialicons"
     }
   ],
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashir.shoaeb",
+  "instaUsername": "luckytiger18",
   "instaQuerry": "/?__a=1",
-  "aboutDev": "Hashir is a final year Computer Engineering student at NUST CEME. He is vice president student body at Emerging Technologies Research Lab(ETL) and former Intern at RiseTech. He has keen interest in Robotics, and recently working on his Final Year Project. He also has three years' experience in Web Development, working in crossfunctional teams and using mulitple web platforms. Hashir is passionate about teaching machines how to think.",
+  "aboutDev": "I am attending UC Berkeley Extension as a Full Stack Web Developer student. I came from a background in Psychology and am transitioning into computers. While transitioning out of my previous seven year Behavioral Interventionist career, I got a chance to work at a tech company. While there, I was exposed to various imperfect in-house tools which inspired me to research about the software developement process into making things better. Lastly, on my free time, I enjoy long walks with my dog, Popcorn and watercolor painting.",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "luckytiger18",
   "gitHubQuerry": "/repos?sort=updated&direction=desc"
 }
