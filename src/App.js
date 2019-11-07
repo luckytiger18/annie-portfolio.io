@@ -81,7 +81,7 @@ class MainBody extends Component {
             </div>
             <a
               className="btn btn-outline-light btn-lg"
-              href="#divaboutme"
+              href="#aboutme"
               role="button"
             >
               More about me
@@ -127,7 +127,7 @@ class AboutMe extends Component {
 
   render() {
     return (
-      <div id="divaboutme" className="jumbotron jumbotron-fluid m-0">
+      <div id="aboutme" className="jumbotron jumbotron-fluid m-0">
         <div className=" container container-fluid p-5">
           <div className="row">
             <div className=" col-5 d-none d-lg-block align-self-center">
