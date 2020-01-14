@@ -5,8 +5,8 @@ import Configs from "./configurations.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 import axios from "axios";
 import "bootstrap/dist/js/bootstrap.bundle.min";
-import $ from "jquery";
-import Popper from "popper.js";
+// import $ from "jquery";
+// import Popper from "popper.js";
 
 class MainBody extends Component {
   constructor(props) {
@@ -25,10 +25,10 @@ class MainBody extends Component {
     window.removeEventListener("scroll", this.handleScroll);
   };
 
-  handleScroll = e => {
+  // handleScroll = e => {
     //this.setState({ devInfo: "Hashir Shoaib" });
     // console.log("scroll trigered");
-  };
+  // };
   toggleHover = data => {
     const newhoverStatus = [...this.state.hoverstatus];
     if (data.event === "enter") {
@@ -132,7 +132,7 @@ class AboutMe extends Component {
           <div className="row">
             <div className=" col-5 d-none d-lg-block align-self-center">
               <img
-                className=" border border-secondary rounded-circle"
+                className=" border border-secondary rounded-square"
                 src={this.state.instaProfilePic}
               ></img>
             </div>

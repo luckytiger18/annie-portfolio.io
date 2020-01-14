@@ -2,7 +2,7 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "devIntro": "Annie Luc",
-  "devDesc": "| Engineer | Programmer | Web Developer | Artist ",
+  "devDesc": "| Web Developer | Behavioral Interventionist | Artist ",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
   "icons": [
     {
@@ -27,7 +27,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "luckytiger18",
   "instaQuerry": "/?__a=1",
-  "aboutDev": "I am attending UC Berkeley Extension as a Full Stack Web Developer student. I came from a background in Psychology and am transitioning into computers. While transitioning out of my previous seven year Behavioral Interventionist career, I got a chance to work at a tech company. While there, I was exposed to various imperfect in-house tools which inspired me to research about the software developement process into making things better. Lastly, on my free time, I enjoy long walks with my dog, Popcorn and watercolor painting.",
+  "aboutDev": "Hello, my name is Annie Luc. A past Behavioral Interventionist with a passion for helping the world, one bug fix at a time.",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "luckytiger18",
   "gitHubQuerry": "/repos?sort=updated&direction=desc"
